@@ -1,0 +1,23 @@
+
+body{
+    background-color:rgb(209, 51, 51);
+}
+table{
+     border: solid 2px rgb(19, 1, 1);
+     border-collapse:collapse;
+     background-color:rgb(177, 163, 163);
+}
+ tr, th, td{
+     border: solid 2px rgb(19, 1, 1);
+     border-collapse:collapse;
+}
+
+.user-text-center {
+    text-align: center;
+}
+caption{
+    caption-side:bottom;
+}
+th, td{
+    padding-left:49px;
+}

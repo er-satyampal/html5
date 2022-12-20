@@ -1,0 +1,26 @@
+body{
+    background-color:#917d1c;
+}
+
+h2 {
+        color:lightgree;
+        font-size:85px;
+        border: 2px solid rgb(214, 119, 119);
+    }
+}
+
+.design {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: x-large;
+    color: red;
+}
+
+
+#design-2{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 17px;
+    color:magenta;}
